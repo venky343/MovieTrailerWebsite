@@ -1,5 +1,5 @@
 # movie_trailer_website
-This project is been done for educational purpose for the Udacity's **Full Stack Developer Nanodegree** [here](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+This project is been accomplished for educational purposes for the Udacity's **Full Stack Developer Nanodegree** [here](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
 
 
 ##Using the app
@@ -17,8 +17,8 @@ This will redirect you to an ```.html``` file called the ```fresh_tomatoes.html`
 ##Complications
 Feel free to add more movies to the ```entertainment_center.py``` script.
 
-One complication you would get is when you try to show up a movie poster use imdb website posters as they do not have any permissions and been used for educational purposes.
-    Using wikipedia posters might not load up the posters in the website as they have got permissions to restrict from third-party usage.
+One complication you would get is when you try to show up a movie poster use imdb website posters as they do not have any permissions and are been used for educational purposes only.
+    Using wikipedia posters might not load up the posters in the website as they have permissions to restrict from third-party usage.
 
 ##Credits
 Thanks to Udacity for lending us use their python script ```fresh_tomatoes.py```

@@ -6,6 +6,8 @@ This project is been accomplished for educational purposes for the Udacity's **F
 You can run this app my executing the command in the command prompt as 
 ``` python ./entertainment_center.py ```
 
+Or Click [Here](venky343.github.io/movie_trailer_website)
+
 This will redirect you to an ```.html``` file called the ```fresh_tomatoes.html```, where some of my favorite movies are displayed with their name, poster and the trailer for that particular movie can be accessed by a click on the movie you would like to watch.
 
 ##Table of Contents
